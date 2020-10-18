@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/user/Documents/hello-world/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe    -g   -o CMakeFiles\\testgit.dir\\part1.cpp.obj -c C:\\Users\\user\\Documents\\hello-world\\part1.cpp",
+  "file": "C:/Users/user/Documents/hello-world/part1.cpp"
+}
+]

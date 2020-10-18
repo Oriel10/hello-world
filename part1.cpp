@@ -1,8 +1,13 @@
 #include "iostream"
-using std::cout;
-using std::endl;
+#include <string>
+using std::string;
+const string printHelloWorld();
 
 int main(){
-    cout<<"hello world"<<endl;
+    std::cout<<printHelloWorld()<<std::endl;
     return 0;
+}
+
+const string printHelloWorld(){
+    return "hello world";
 }

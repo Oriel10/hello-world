@@ -5,6 +5,7 @@ const string printHelloWorld();
 
 int main(){
     std::cout<<printHelloWorld()<<std::endl;
+    std::cout<<"Success"<<std::endl;
     return 0;
 }
 
